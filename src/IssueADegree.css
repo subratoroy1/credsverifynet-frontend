@@ -1,0 +1,33 @@
+.form_general {
+  flex: 1;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 50%;
+  width: 30%;
+  margin-left: 30%;
+  margin-top: 10%;
+  background-color: lightgray;
+  border-color: black;
+  border-width: 2px;
+}
+
+.aTextInput {
+  flex: 1;
+  flex-direction: column;
+  height: 10%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.aTextBox {
+  width: 90%;
+  margin-bottom: 1%;
+}
+
+.aListItem {
+  flex: 1;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  background-color: lightskyblue;
+  flex-wrap: wrap;
+}

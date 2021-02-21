@@ -1,0 +1,42 @@
+.header {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header__link {
+  margin-left: 40px;
+  margin-right: 5%;
+  color: white;
+  font-size: smaller;
+}
+
+.header__logo {
+  width: 15%;
+}
+.header__logotext {
+  font-size: x-large;
+  color: green;
+}
+
+.header__rest {
+  width: 85%;
+}
+
+.header__username {
+  margin-left: 80px;
+  color: orange;
+  font-size: smaller;
+}
+
+.header__select {
+  background-color: black;
+  color: white;
+  border-color: black;
+  text-align: center;
+}

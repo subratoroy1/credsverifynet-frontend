@@ -1,0 +1,29 @@
+.form_general {
+  flex: 1;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 50%;
+  width: 30%;
+  margin-left: 30%;
+  margin-top: 20%;
+  background-color: lightgray;
+  border-color: black;
+  border-width: 2px;
+}
+
+.form_general_newKeyText {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  height: 100%;
+  width: 90%;
+}
+
+.form_general_setKey {
+  width: 90%;
+}
+
+.form_general_getKey {
+  margin-top: 10%;
+  margin-bottom: 10%;
+  width: 90%;
+}
